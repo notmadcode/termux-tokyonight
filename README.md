@@ -22,6 +22,8 @@ Jalankan script untuk menginstall:
 bash install.sh
 ```
 
+![pilih warna](gambar/01_pilih_skema.jpg)
+
 ## Pranala Luar
 
 - [Termux-app](https://github.com/termux/termux-app)
